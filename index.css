@@ -15,11 +15,11 @@ main img {
 }
 
 .col-2 {
-    grid-column: span 2;
+    grid-column: span 3;
     /*strekker seg ut over flere kolonner*/
 }
 
 .row-2 {
-    grid-row: span 2;
+    grid-row: span 3;
     /*strekker seg ut over flere rader*/
 }
